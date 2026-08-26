@@ -9,39 +9,39 @@
 
 **Analysis of motorcycle weave and wobble modes through experimental acquisition and numerical modeling**
 
-[📋 Descrizione](#descrizione) • [🎯 Obiettivi](#obiettivi) • [📊 Metodologia](#metodologia) • [📁 Struttura](#struttura) • [🚀 Utilizzo](#utilizzo)
+[📋 Description](#description) • [🎯 Objectives](#objectives) • [📊 Methodology](#methodology) • [📁 Structure](#structure) • [🚀 Usage](#usage)
 
 </div>
 
 ---
 
-## 📋 Descrizione
+## 📋 Description
 
-Questo progetto di ricerca analizza il comportamento dinamico delle motociclette sotto eccitazioni esterne, con focus particolare sulla **modalità di weave** (oscillazione a bassa frequenza 2-4.5 Hz che coinvolge roll, yaw e steer accoppiati).
+This research project analyzes the dynamic behavior of motorcycles under external excitations, with particular focus on the **weave mode** (low-frequency oscillation 2-4.5 Hz involving coupled roll, yaw, and steering motions).
 
-Lo studio combina:
-- ✅ **Acquisizione sperimentale** su strada con sensori MEMS
-- ✅ **Elaborazione avanzata dei dati** (FFT, Hilbert Transform, filtraggi)
-- ✅ **Analisi modale numerica** con modello 4-DOF
-- ✅ **Simulazioni parametriche** per validazione e ottimizzazione
+The study combines:
+- ✅ **Experimental acquisition** on road with MEMS sensors
+- ✅ **Advanced data processing** (FFT, Hilbert Transform, filtering)
+- ✅ **Numerical modal analysis** with 4-DOF model
+- ✅ **Parametric simulations** for validation and optimization
 
-**Autore:** Martina Malpeli  
-**Istituzione:** Politecnico di Milano - Master in Mechanical Engineering (Sports Engineering)  
-**Anno:** 2025/2026
+**Author:** Martina Malpeli  
+**Institution:** Politecnico di Milano - Master in Mechanical Engineering (Sports Engineering)  
+**Academic Year:** 2025/2026
 
 ---
 
-## 🎯 Obiettivi
+## 🎯 Objectives
 
-| Obiettivo | Descrizione |
+| Objective | Description |
 |-----------|-------------|
-| 🔍 **Identificazione** | Isolamento e caratterizzazione dei modi di vibrazione (weave, wobble) |
-| 📈 **Quantificazione** | Misurazione di frequenze naturali, rapporti di smorzamento e tassi di decadimento |
-| 🔄 **Validazione** | Confronto tra dati sperimentali e previsioni numeriche |
-| 🛠️ **Ottimizzazione** | Identificazione dei parametri critici per la stabilità a diverse velocità |
+| 🔍 **Identification** | Isolation and characterization of vibration modes (weave, wobble) |
+| 📈 **Quantification** | Measurement of natural frequencies, damping ratios, and decay rates |
+| 🔄 **Validation** | Comparison between experimental data and numerical predictions |
+| 🛠️ **Optimization** | Identification of critical parameters for stability at various speeds |
 
 ---
 
-## 📊 Metodologia
+## 📊 Methodology
 
-### 1️⃣ **Fase Sperimentale**
+### 1️⃣ **Experimental Phase**
