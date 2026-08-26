@@ -39,7 +39,16 @@ The study combines:
 | 📈 **Quantification** | Measurement of natural frequencies, damping ratios, and decay rates |
 | 🔄 **Validation** | Comparison between experimental data and numerical predictions |
 | 🛠️ **Optimization** | Identification of critical parameters for stability at various speeds |
+🏍️ Data Acquisition
+├── Gyroscope on handlebar (steering axis)
+├── Gyroscope on rear frame (yaw axis)
+├── GPS (position and velocity)
+└── IMU 6-DOF
 
+📍 Test Route: 6 segments at increasing speeds
+├── Seg 1-2: ~10-40 km/h
+├── Seg 3-4: ~90-110 km/h
+└── Seg 5-6: ~100-160 km/h
 ---
 
 ## 📊 Methodology
